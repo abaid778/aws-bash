@@ -1,5 +1,3 @@
-# AWS Bash Scripts
+# AWS Ec2 web directory and mysql all databases
 
-1: AMI automated backup 
-
-reference from this here http://simplyopensource.blogspot.com/2014/04/script-to-create-daily-ami-of-aws.html
+There is 2 script 1 for the database backup and second for the web director. I will also delete the 6 day old file 
