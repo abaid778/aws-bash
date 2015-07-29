@@ -1,5 +1,5 @@
-# AWS Bash Scripts
+# AWS Bash Backup Scripts
 
-1: AMI automated backup 
-
-reference from this here http://simplyopensource.blogspot.com/2014/04/script-to-create-daily-ami-of-aws.html
+* [AWS Ec2 daily Image Backup Script](./AWS-EC2-AMI-Backup-Script)
+* [AWS Ec2 mysql backup to s3 bucket](./AWS-EC2-Mysql-Backup-to-S3)
+* [AWS Ec2 web directory and mysql all databases](./AWS-EC2-Mysql-WebDirectory-Backup)
