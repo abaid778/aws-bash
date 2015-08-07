@@ -6,5 +6,5 @@ There is 2 script 1 for the database backup and second for the web directory/apa
 * `cd /root/backupscript` --- Cd to directory and git clone the db and web directory bash script
 * `chmod 700 * ` ---- change the permissions of the scripts 
 * `vi /etc/crontab` --- add the script in the crontab
-    * `10 3    * * *   root    /root/backupscript/web-apache-backup.sh.sh`
+    * `10 3    * * *   root    /root/backupscript/web-apache-backup.sh`
     * `10 5    * * *   root    /root/backupscript/dbbackup.sh `
